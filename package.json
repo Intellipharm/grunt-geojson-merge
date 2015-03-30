@@ -1,7 +1,7 @@
 {
   "name": "grunt-geojson-merge",
   "description": "Merge multiple GeoJSON files into one FeatureCollection.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Intellipharm",
     "url": "http://intellipharm.com.au/"
